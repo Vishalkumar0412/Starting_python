@@ -1,0 +1,10 @@
+name="vishal"
+age=12
+price=12.5
+isPrime=False
+noVal=None
+print(type(name))
+print(type(age))
+print(type(price))
+print(type(isPrime))
+print(type(noVal))
